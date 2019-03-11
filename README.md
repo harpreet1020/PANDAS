@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Academy of Py 
 
 Given data on schools' budgets and students' standardized test scores, I showcased obvious trends in school performance. To begin, I analyzed district-wide standardized test results for each student and joined this data with school budget data on the 'school_name' column. I then aggregated the data to create the following tables.
@@ -55,7 +54,4 @@ Given data on schools' budgets and students' standardized test scores, I showcas
 
 ### Scores by School Size 
 * Repeated the above breakdown, but based on reasonable apporoximations of school size (small, medium, large).
-=======
-# PANDAS
-Used Pandas to explore data about high schools and their respective students.
->>>>>>> 69fb6225c078dc5171fb847c71c2ce463f31373a
+
